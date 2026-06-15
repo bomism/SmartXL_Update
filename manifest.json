@@ -2,12 +2,12 @@
     "releaseDate":  "2026-06-15",
     "modules":  [
                     {
-                        "url":  "https://github.com/bomism/SmartXL_Update/releases/download/v1.8.5/SmartXL.exe",
+                        "url":  "https://github.com/bomism/SmartXL_Update/releases/download/v1.8.6/SmartXL.exe",
                         "name":  "SmartXL",
                         "file":  "SmartXL.exe",
-                        "hash":  "354BBE41FA2D71E737DD60DECB2603018B3369E1E2F0E311184DA8A60F35723A",
-                        "version":  "1.8.5.0"
+                        "hash":  "43966B913F435E7860EC7D48E4935E0676AA16A1337C9023014144269BCBC9BD",
+                        "version":  "1.8.6.0"
                     }
                 ],
-    "version":  "1.8.5.0"
+    "version":  "1.8.6.0"
 }
