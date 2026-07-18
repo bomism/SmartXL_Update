@@ -1,11 +1,11 @@
 ﻿{
-    "releaseDate":  "2026-07-17",
+    "releaseDate":  "2026-07-18",
     "modules":  [
                     {
                         "url":  "https://github.com/bomism/SmartXL_Update/releases/download/v1.9.4/SmartXL.exe",
                         "name":  "SmartXL",
                         "file":  "SmartXL.exe",
-                        "hash":  "51C9C7F25995FD3CFF734DDB3F6C4D1697AA7A0544B5F68509F7BE664E73A6D6",
+                        "hash":  "B07E367ED4F97FAFA454B4BF33CA6346428A59855E2EAC56EF33870BF005321D",
                         "version":  "1.9.4.0"
                     }
                 ],
